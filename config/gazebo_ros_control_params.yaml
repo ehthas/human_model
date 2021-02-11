@@ -1,0 +1,7 @@
+# parameters for Gazebo ROS control plugin
+gazebo_ros_control/pid_gains:
+    jright_shoulder: {p: 100.0, i: 0.01, d: 10.0}
+    jright_upper_arm: {p: 100.0, i: 0.01, d: 10.0}
+    jright_forearm: {p: 100.0, i: 0.01, d: 10.0}
+    jright_grip_rhand: {p: 100.0, i: 0.01, d: 10.0}
+
